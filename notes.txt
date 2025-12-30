@@ -1,0 +1,5 @@
+NOTES_FILE = "notes.txt"
+i am builiding agentic ai
+me aur manish gondogol kar rhe hai
+Is project se tum ye confidently bol sakte ho:
+aaj me hemant ke saath  ai sikh rha hu
